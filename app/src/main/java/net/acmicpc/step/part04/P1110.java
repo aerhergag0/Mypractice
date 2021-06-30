@@ -16,8 +16,8 @@ public class P1110 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-    int N = Integer.parseInt(br.readLine());
     int ans =0, count=0;
+    int N = Integer.parseInt(br.readLine());
 
     ans = N;
     do {
@@ -27,12 +27,14 @@ public class P1110 {
       }
       else
       {
-        ans = ((ans%10)*10) + ((ans%10)+(ans/10)%10);
+        ans = ((ans%10)*10) + (((ans%10)+(ans/10))%10);
 
       }
 
       count++;
-    } while(ans == N);
-    System.out.print(count);
+    } while(ans != N);
+    bw.write(Integer.toString(count));
+    bw.flush();
+    bw.close();
   }
 }
