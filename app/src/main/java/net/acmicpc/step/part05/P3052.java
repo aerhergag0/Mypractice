@@ -22,17 +22,7 @@ public class P3052 {
 
     int numcheck=0;
     int numcount=0;
-    for(int i=0; i<42; i++) {
-      if(numcheck==arr2[i]) {
-        numcount++;
-        numcheck++;
-        return;
-      }
-      else {
-        numcheck++;
-        return;
-      }
-    }
+
 
 
     bw.write(Integer.toString(numcount));
