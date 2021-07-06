@@ -14,16 +14,22 @@ public class P3052 {
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
     int[] arr = new int[10];
-    int[] arr2 = new int[42];
-    for(int i=0; i<10; i++) {
+    int[] arr2 = new int[10];
+    for(int i=0; i<arr.length; i++) {
       arr[i] = Integer.parseInt(br.readLine());
-      arr2[i] = (arr[i])%42;
+      arr2[i] = (arr[i])%42; // 나머지를 넣은 배열
     }
 
-    int numcheck=0;
     int numcount=0;
 
-
+    // 배열 중 0이 있으면 증가, 1이 있으면 증가, 없으면 안증가 .. 반복
+    for(int i=0; i<42; i++) {
+      loop : for(int j=0; j<10; j++) {
+        if(arr2[j] == i) {
+          numcount++;
+          break loop; }
+      }
+    }
 
     bw.write(Integer.toString(numcount));
     bw.flush();

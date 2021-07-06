@@ -20,7 +20,6 @@ public class Notepad {
   public void panel() {
     Panel panel = new Panel();
     panel.setBackground(Color.gray);
-    setVisible(true);
 
   }
 }
