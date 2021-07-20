@@ -22,7 +22,7 @@ System.out.printf("[%-15s]",java);
 ```
 ---------------------
 
-##### charAt(), indexOf(), equals(), length() , subString()
+##### [charAt(), indexOf(), equals(), length() , subString()]
 
 해당 메서드를 사용하기 위해 String 변수명 뒤에 . 을 붙여 사용한다.
 
@@ -34,7 +34,12 @@ String  subString(int index1, int index2) : 시작 인덱스의 문자 부터 �
 
 ------------------------
 
-##### for-each 문
+##### [for-each 문]
+```
+for(변수타입 변수이름 : 배열이름)
+  실행부분;
+```
 
+반복이 이루어 질때 마다 배열의 항목을 순서대로 꺼내어 변수에 자동으로 대입시킨다.
 
-
+ArrayIndexOutOfBoundsException 예외를 피할 수 있으나, 배열의 값을 사용하는 것만 가능하고 수정할 수 없다는 단점이 있다.
