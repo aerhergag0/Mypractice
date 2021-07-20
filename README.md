@@ -20,6 +20,21 @@ System.out.printf("[%-15s]",java);
 ```
   System.out.printf("%.3f",10.0/3);
 ```
+---------------------
+
+##### charAt(), indexOf(), equals(), length() , subString()
+
+해당 메서드를 사용하기 위해 String 변수명 뒤에 . 을 붙여 사용한다.
+
+char  charAt(int index) : 문자열에서 해당 index에 있는 문자를 출력한다. -48 또는 -'0' 등을 통하여 정수값으로 사용할 수 있다.
+int  indexOf(String str) : 문자열에서 특정 '문자'가 시작되는 '위치(index)'를 반환한다. 해당 문자가 없으면 -1을 출력한다.
+int  length() : 문자열의 길이를 반환한다.    
+boolean  equals(String str) : 문자열이 동일한지 확인한다. 같으면 true를 반환한다.  
+String  subString(int index1, int index2) : 시작 인덱스의 문자 부터 끝 인덱스의 문자까지의 문자열을 반환한다.
+
+------------------------
+
+##### for-each 문
 
 
 
