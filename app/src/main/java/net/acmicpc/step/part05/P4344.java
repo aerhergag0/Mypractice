@@ -16,7 +16,6 @@ public class P4344 {
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
     int C = Integer.parseInt(br.readLine());
-    float perarr[] = new float[C]; // 답을 저장할 배열
     float sumarr[] = new float[C];
     float avgarr[] = new float[C];
 
@@ -34,14 +33,18 @@ public class P4344 {
       }
       for(j=0; j<arr.length; j++) {
         sum += arr[j];
-        sumarr[j] = sum;
       }
-      //arr의 평균 구하기
+      sumarr[i] = sum;
       avgarr[i] = sumarr[i]/N;
 
-    } //배열에 담는 반복문끝
-    for(int i=0; i<C; i++)
-      bw.write(Integer.parseFloat(avgarr[i]));
+      float count =0;
+      for(j=0; j<arr.length; j++) {
+        if(arr[j] >avgarr[i]) {
+          count++;
+        }
+      }
+      System.out.printf("%.3f%%\n",count/N*100);
+    }
   }
-
 }
+
