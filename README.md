@@ -1,4 +1,4 @@
-# 배운내용 정리
+# 공부한 내용 정리
 
 ## Week01
 
@@ -45,5 +45,38 @@ for(변수타입 변수이름 : 배열이름)
 ArrayIndexOutOfBoundsException 예외를 피할 수 있으나, 배열의 값을 사용하는 것만 가능하고 수정할 수 없다는 단점이 있다.
 
 
+_____________
+
+##### [java api document]
+
++ java.lang
+자바 프로그램의 기본적인 클래스를 담고 있는 패키지. import 없이 사용할 수 있다.
+  + Object  
+자바 클래스의 최상위 클래스
+  + System   
+키보드 등으로부터 데이터를 입력받을때, 모니터 등으로 데이터를 출력할 때, 자바 가상기계를 종료시킬 때 등 사용
+  + Class    
+클래스를 메모리로 로딩 할때
+  + String  
+문자열을 저장하고 여러 정보를 얻어 올때 사용   
+  + StringBuffer, StringBuilder   
+문자열을 저장하고 내부 문자열을 조작할 때
+  + Math   
+수학 함수를 사용할 때
+  + Wrapper(Byte,Short,Character,Integer ... )    
+데이터에 맞는 객체를 만들 때, 문자열을 기본 타입으로 변환 할 때 등..
+
++ java.util   
+유용한 클래스, 자료구조에 사용되는 클래스 등을 담고 있다.
+  + Arrays   
+배열을 조작시에 사용
+  + Calendar , Date   
+날짜와 시간 정보를 얻고 조작시 사용
+  + Objects   
+객체 비교, null 여부등을 조사시 사용
+  + StringTokenizer   
+특정 문자로 구분된 문자열을 뽑아올때 사용
+  + Random   
+난수를 얻을 때 사용
 
 
