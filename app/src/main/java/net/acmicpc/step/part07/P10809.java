@@ -8,12 +8,26 @@ public class P10809 {
     Scanner sc = new Scanner(System.in);
     String S = sc.nextLine();
 
-    int arr[] = new int[S.length()]; // 문자저장배열
+    char arr[] = new char[S.length()]; // 문자저장배열
     int alphabet[] = new int[26]; //0:a 1:b 2:c .. 25:z
     //배열에 일단 -1값 저장
     for(int i=0; i<alphabet.length; i++) {
       alphabet[i] = -1;
     }
+    for(int i=0; i<S.length(); i++) {
+      arr[i] = S.charAt(i);
 
+    }
+    for(int i=97;i<alphabet.length + 97; i++) {
+      for(int j=0;j<S.length(); j++) {
+        if (arr[j] == i) {
+          alphabet[i-97] = j;
+        }
+      }
+    }
+
+    for(int i : alphabet) {
+      System.out.print(i + " ");
+    }
   }
 }
