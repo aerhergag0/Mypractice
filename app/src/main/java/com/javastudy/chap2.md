@@ -108,6 +108,3 @@ float - 0.0f
 int - 0   
 long - 0L   
 String은 참조형(reference type) 타입 , 모든 참조형 타입은 기본값이 null이다.
-
-#### 2-14
-
