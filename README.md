@@ -103,3 +103,9 @@ str을 특정 delim으로 분리시키고 그 delim까지 token으로 포함시�
 
 ##### vscode 단축키
 ctrl + K + F : 자동 줄 정렬
+
+##### Installed IntelliJ 
+
+##### lombok
+
+##### Getter, Setter
