@@ -96,3 +96,16 @@ str을 특정 delim으로 분리시키고 그 delim까지 token으로 포함시�
 다음의 token이 존재하면 true값을 반환한다. 두 메서드 모두 같은 값을 반환한다. 
   + Object nextElementt(), String nextToken()   
 다음의 token을 반환한다.
+
+## Week02
+
+##### vscode emmet 기능 활용
+
+##### vscode 단축키
+ctrl + K + F : 자동 줄 정렬
+
+##### Installed IntelliJ 
+
+##### lombok
+
+##### Getter, Setter
