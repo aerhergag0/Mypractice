@@ -5,8 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1caf37e3-e9ec-4d8b-8bfa-a84295514efd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/chap3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/chap4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/chap5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap6/chap6.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap6/chap6.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +63,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1vwsENTsSDmdfnWyOarn1lXCd61" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,9 +88,16 @@
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Exercise6_7">
-    <configuration name="Exercise6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exercise6_2" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rmrdo\git\mypractice\app\src\main\java\com\javastudy\chap5" />
+      <recent name="C:\Users\rmrdo\git\mypractice\app\src\main\java\com\javastudy\chap4" />
+      <recent name="C:\Users\rmrdo\git\mypractice\app\src\main\java\com\javastudy\chap3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise7_5">
+    <configuration name="Exercise6_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exercise6_22" />
       <module name="mypractice.app.main" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exercise6_4" />
+    <configuration name="Exercise6_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exercise6_23" />
       <module name="mypractice.app.main" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exercise6_6" />
+    <configuration name="Exercise6_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exercise6_24" />
       <module name="mypractice.app.main" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exercise6_7" />
+    <configuration name="Exercise7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap7.Exercise7_1" />
       <module name="mypractice.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javastudy.chap6.*" />
+          <option name="PATTERN" value="com.javastudy.chap7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exericise6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap6.Exericise6_4" />
+    <configuration name="Exercise7_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javastudy.chap7.Exercise7_5" />
       <module name="mypractice.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javastudy.chap6.*" />
+          <option name="PATTERN" value="com.javastudy.chap7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise6_7" />
-        <item itemvalue="Application.Exercise6_6" />
-        <item itemvalue="Application.Exercise6_4" />
-        <item itemvalue="Application.Exericise6_4" />
-        <item itemvalue="Application.Exercise6_2" />
+        <item itemvalue="Application.Exercise7_5" />
+        <item itemvalue="Application.Exercise7_1" />
+        <item itemvalue="Application.Exercise6_24" />
+        <item itemvalue="Application.Exercise6_23" />
+        <item itemvalue="Application.Exercise6_22" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +196,8 @@
       <workItem from="1627484550405" duration="5101000" />
       <workItem from="1627518364434" duration="21949000" />
       <workItem from="1627604754270" duration="3838000" />
+      <workItem from="1627784466265" duration="7113000" />
+      <workItem from="1627795457391" duration="12719000" />
     </task>
     <servers />
   </component>
@@ -165,7 +220,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_14.java</url>
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_14.java</url>
           <line>5</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
