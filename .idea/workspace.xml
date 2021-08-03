@@ -6,42 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1caf37e3-e9ec-4d8b-8bfa-a84295514efd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise3_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/Exercise3_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise4_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/Exercise4_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/Exercise5_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/Exercise5_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap3/chap3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap4/chap4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap5/chap5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap6/chap6.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap6/chap6.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -161,19 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Exercise7_5" />
@@ -198,6 +149,8 @@
       <workItem from="1627604754270" duration="3838000" />
       <workItem from="1627784466265" duration="7113000" />
       <workItem from="1627795457391" duration="12719000" />
+      <workItem from="1627863575967" duration="1802000" />
+      <workItem from="1627895974260" duration="6000" />
     </task>
     <servers />
   </component>
