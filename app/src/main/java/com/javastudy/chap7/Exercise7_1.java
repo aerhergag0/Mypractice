@@ -38,21 +38,21 @@ class SutdaDeck {
 }
 
 class SutdaCard {
-	int     num;
-	boolean isKwang;
+	final int     NUM;
+	final boolean IS_KWANG;
 
 	SutdaCard() {
 		this(1, true);
 	}
 
-	SutdaCard(int num, boolean isKwang) {
-		this.num     = num;
-		this.isKwang = isKwang;
+	SutdaCard(int NUM, boolean isKwang) {
+		this.NUM      = NUM;
+		this.IS_KWANG = isKwang;
 	}
 
 	//   info()대신   Object클래스의   toString()을   오버라이딩했다.
 	public String toString() {
-		return num + (isKwang ? "K" : "");
+		return NUM + (IS_KWANG ? "K" : "");
 	}
 }
 

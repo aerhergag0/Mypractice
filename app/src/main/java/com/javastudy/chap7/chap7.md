@@ -56,3 +56,57 @@ class   Exercise7_7   {
 ```
 Child() - Child(int x) - Parent() - Parent(int x) - Object()의 순으로 실행된다.   
 실행결과 x=200
+
+##### 7-8
+
+######접근 제어자를 접근 범위가 넓은 순으로
+
+public - protected - default - private
+
+##### 7-9
+
+###### 제어자 final을 붙일 수 있는 대상과 붙였을 때 의미
+
+지역변수, 멤버변수 - 값을 변경 할 수 없다.   
+메서드 - 오버라이딩을 할 수 없다.   
+클래스 - 확장할 수 없는 클래스가 된다.
+
+##### 7-12
+###### 접근 제한자에 대한 설명으로 옳지 않은 것은?
+
+a. public은 접근제한이 전혀 없는 접근 제어자이다.   
+b. (default)가 붙으면, 같은 패키지 내에서만 접근이 가능하다.   
+c. 지역변수에도 접근 제어자를 사용할 수 있다.   
+d. protected가 붙으면,같은 패키지 내에서도 접근이 가능하다.   
+e. protected가 붙으면,다른 패키지의 자손 클래스에서 접근이 가능하다.   
+
+c - 접근 제한자가 사용될 수 있는 곳 - 클래스, 멤버변수, 메서드, 생성자
+
+##### 7-13
+###### Math클래스의 생성자는 접근 제어자가 private인 이유는?
+
+Math클래스의 모든 메서드가 static 메서드이고 인스턴스 변수가 존재하지 않기 떄문
+, 외부에서의 불필요한 접근을 막기 위해
+
+##### 7-15
+###### 형변환을 올바르게 한 것은?
+```aidl
+class   Unit   {}
+class   AirUnit   extends   Unit   {}
+class   GroundUnit   extends    Unit   {}
+class   Tank   extends   GroundUnit   {}
+class   AirCraft   extends   AirUnit   {}
+Unit   u   =   new   GroundUnit();
+Tank   t   =   new   Tank();
+AirCraft   ac   =    new   AirCraft();
+```
+a.   u   =   (Unit)ac;  
+b.   u   =   ac;  
+c.   GroundUnit    gu    =    (GroundUnit)u;  
+d.   AirUnit   au    =   ac;  
+e.   t   =   (Tank)u;  
+f.   GroundUnit    gu    =    t;  
+
+e - 조상타입의 인스턴스를 자손타입으로 형변환 할 수 없다.
+
+##### 7-16 다음 중 연산결과가 true 가 아닌 것은?
