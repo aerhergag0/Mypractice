@@ -121,3 +121,7 @@ ctrl + K + F : 자동 줄 정렬
 ##### Thread , MultiThread
 
 ##### WAS IDE Settings , JSP
+
+##### get/post 방식
+
+##### DB Settings
