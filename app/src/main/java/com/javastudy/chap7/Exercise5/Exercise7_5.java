@@ -1,4 +1,4 @@
-package com.javastudy.chap7;
+package com.javastudy.chap7.Exercise5;
 
 class Product {
 	int price; //   제품의   가격
