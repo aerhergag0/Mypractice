@@ -128,7 +128,7 @@ ctrl + K + F : 자동 줄 정렬
 
 ### Week04
 
-##### DAO
+##### DAO, DTO vs VO
 
 ##### MySQL Settings, JDBC Driver Type
 
