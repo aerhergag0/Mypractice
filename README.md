@@ -125,3 +125,15 @@ ctrl + K + F : 자동 줄 정렬
 ##### get/post 방식
 
 ##### DB Settings
+
+### Week04
+
+##### DAO
+
+##### MySQL Settings, JDBC Driver Type
+
+##### SQL Injection
+
+##### Closure
+
+##### Template Method Pattern
