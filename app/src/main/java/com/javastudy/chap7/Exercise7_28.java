@@ -15,4 +15,3 @@ class Exercise7_28 {
 		});
 	}
 }
-

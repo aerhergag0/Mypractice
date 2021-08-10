@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1caf37e3-e9ec-4d8b-8bfa-a84295514efd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap7/Exercise7_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap7/Exercise7_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap7/Exercise7_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/javastudy/chap7/Exercise5/Exercise7_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/w12" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -127,17 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Exercise7_23" />
@@ -166,7 +153,9 @@
       <workItem from="1627895974260" duration="6000" />
       <workItem from="1628159295625" duration="4442000" />
       <workItem from="1628210683862" duration="2054000" />
-      <workItem from="1628254199735" duration="11277000" />
+      <workItem from="1628254199735" duration="13072000" />
+      <workItem from="1628479103377" duration="2136000" />
+      <workItem from="1628555185221" duration="671000" />
     </task>
     <servers />
   </component>
