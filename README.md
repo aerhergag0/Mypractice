@@ -137,3 +137,11 @@ ctrl + K + F : 자동 줄 정렬
 ##### Closure
 
 ##### Template Method Pattern
+
+##### Model1 -> Model2
+
+##### URI vs URL
+
+##### log level , log4j
+
+##### JSTL
