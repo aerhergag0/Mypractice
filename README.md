@@ -145,3 +145,5 @@ ctrl + K + F : 자동 줄 정렬
 ##### log level , log4j
 
 ##### JSTL
+
+##### Servlet, DB, jsp connection
