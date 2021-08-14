@@ -85,17 +85,17 @@ _____________
 
 + 문자열을 지정한 구분자로 쪼개주는 클래스이다.   
   + public StringTokenizer(String str);   
-매개변수 str을 기본 공백 문자들을 기준으로 분리한다.
+  매개변수 str을 기본 공백 문자들을 기준으로 분리한다.
   + public StringTokenizer(String str, String delim);   
-특정 delim으로 문자열을 분리한다.
+  특정 delim으로 문자열을 분리한다.
   + public StringTokenizer(String str, String delim, boolean returnDelims);   
-str을 특정 delim으로 분리시키고 그 delim까지 token으로 포함시킬지 결정한다. true일시 포함한다.
+  str을 특정 delim으로 분리시키고 그 delim까지 token으로 포함시킬지 결정한다. true일시 포함한다.
   + int countTokens()   
-남아있는 token의 수를 반환한다. 전체 token이 아닌 현재 남아있는 token의 수 임에 유의
+  남아있는 token의 수를 반환한다. 전체 token이 아닌 현재 남아있는 token의 수 임에 유의
   + boolean hasMoreElements(), boolean hasMoreTokens()   
-다음의 token이 존재하면 true값을 반환한다. 두 메서드 모두 같은 값을 반환한다. 
+  다음의 token이 존재하면 true값을 반환한다. 두 메서드 모두 같은 값을 반환한다. 
   + Object nextElementt(), String nextToken()   
-다음의 token을 반환한다.
+  다음의 token을 반환한다.
 
 ## Week02
 
@@ -147,3 +147,7 @@ ctrl + K + F : 자동 줄 정렬
 ##### JSTL
 
 ##### Servlet, DB, jsp connection
+
+##### Session vs Cookie
+
+##### HttpServletRequest
