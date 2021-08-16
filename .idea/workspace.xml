@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="1caf37e3-e9ec-4d8b-8bfa-a84295514efd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise3_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise4_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/Exercise4_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/chap3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/com/javastudy/chap4.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/w12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -156,6 +169,8 @@
       <workItem from="1628254199735" duration="13072000" />
       <workItem from="1628479103377" duration="2136000" />
       <workItem from="1628555185221" duration="671000" />
+      <workItem from="1628950498624" duration="3871000" />
+      <workItem from="1629012754669" duration="1277000" />
     </task>
     <servers />
   </component>
