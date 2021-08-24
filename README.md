@@ -177,3 +177,11 @@ ctrl + K + F : 자동 줄 정렬
 ##### JavaScript DOM
 
 ##### scope
+
+##### Hoisting
+
+##### QuerySelector, addEventListener
+
+##### callback function
+
+##### javascript event
